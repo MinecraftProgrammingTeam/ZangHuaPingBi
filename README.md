@@ -23,3 +23,7 @@
 ### 效果截图
 
 ![QRU_M$V)VWXR5CU$CG)7{G8](https://user-images.githubusercontent.com/103884299/209435913-f85b37c6-cbd0-49a1-b183-9ea10311c633.png)
+
+目前自带的文本很少，可以在服务器目录/plugins/zhpb/config.yml里按格式修改。
+
+也可以在issue区给我们提供一些脏话词库。
