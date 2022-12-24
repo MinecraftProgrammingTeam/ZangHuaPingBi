@@ -18,7 +18,7 @@
 
 4. - MPT 官网: [点击前往](https://www.minept.top/ "MPT官网")
 
-   - 本插件在 Gitee 的链接：[点击前往](https://gitee.com/Minecraft-Programming-Team/Zang-Hua-Ping-Bi "Gitee链接")
+   - 本插件在 Gitee 的链接：[点击前往](https://gitee.com/minecraft-programming-team/zang-hua-ping-bi "Gitee链接")
 
 ### 效果截图
 
