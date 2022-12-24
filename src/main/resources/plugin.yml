@@ -1,0 +1,7 @@
+name: Zhpb
+version: '${project.version}'
+main: me.huihui.zhpb.Main
+api-version: 1.13
+authors: [ X_huihui ]
+description: A Swearing shielding plugin
+website: https://www.minept.top
