@@ -30,39 +30,4 @@
 
 ## 开发者
 ### 文件结构
-zhpb
-├─ .gitignore
-
-├─ pom.xml
-
-├─ src
-
-│    ├─ main
-
-│    │    ├─ java
-
-│    │    │    └─ me
-
-│    │    │        └─ huihui
-
-│    │    │              └─ zhpb
-
-│    │    │                   ├─ Main.java
-
-│    │    │                   └─ events
-
-│    │    │                         └─ playerchat.java
-
-│    │    └─ resources
-
-│    │         ├─ config.yml
-
-│    │         └─ plugin.yml
-
-│    └─ test  # 测试类可以删掉
-
-│         ├─ java
-
-│         └─ resources
-
-└─ zhpb.iml
+[文件结构.txt](https://github.com/MinecraftProgrammingTeam/ZangHuaPingBi/files/10299368/zhpb.txt)
