@@ -32,20 +32,37 @@
 ### 文件结构
 zhpb
 ├─ .gitignore
+
 ├─ pom.xml
+
 ├─ src
+
 │    ├─ main
+
 │    │    ├─ java
+
 │    │    │    └─ me
-│    │    │           └─ huihui
-│    │    │                  └─ zhpb
-│    │    │                         ├─ Main.java
-│    │    │                         └─ events
-│    │    │                                └─ playerchat.java
+
+│    │    │        └─ huihui
+
+│    │    │              └─ zhpb
+
+│    │    │                   ├─ Main.java
+
+│    │    │                   └─ events
+
+│    │    │                         └─ playerchat.java
+
 │    │    └─ resources
-│    │           ├─ config.yml
-│    │           └─ plugin.yml
-│    └─ test
-│           ├─ java
-│           └─ resources
+
+│    │         ├─ config.yml
+
+│    │         └─ plugin.yml
+
+│    └─ test  # 测试类可以删掉
+
+│         ├─ java
+
+│         └─ resources
+
 └─ zhpb.iml
